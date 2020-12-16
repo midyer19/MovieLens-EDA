@@ -1,1 +1,1 @@
-# Movie-Lens-EDA
+# MovieLens-EDA
