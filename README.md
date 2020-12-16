@@ -3,10 +3,11 @@
 - To explore each dataset and document findings.
 - Exploratory Data Analysis
 - Visualization using Python
-- Pandas – groupby, merging 
+- Implement the following packages:
+  - Pandas – groupby, merging 
   - Numpy
-- Matplotlib.pyplot
-- Seaborn
+  - Matplotlib.pyplot
+  - Seaborn
 
 
 ### `Project - MovieLens Exploratory Data Analysis`
