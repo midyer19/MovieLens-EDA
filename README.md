@@ -4,6 +4,9 @@
 - Exploratory Data Analysis
 - Visualization using Python
 - Pandas – groupby, merging 
+  - Numpy
+- Matplotlib.pyplot
+- Seaborn
 
 
 ### `Project - MovieLens Exploratory Data Analysis`
