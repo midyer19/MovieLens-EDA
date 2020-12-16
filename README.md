@@ -1,4 +1,11 @@
 # MovieLens-EDA
+### `Objective:`
+- To explore each dataset and document findings.
+- Exploratory Data Analysis
+- Visualization using Python
+- Pandas – groupby, merging 
+
+
 ### `Project - MovieLens Exploratory Data Analysis`
 
 The GroupLens Research Project is a research group in the Department of Computer Science and Engineering at the University of Minnesota. The data is widely used for collaborative filtering and other filtering solutions. However, we will be using this data to act as a means to demonstrate Python skills.
@@ -42,10 +49,3 @@ The GroupLens Research Project is a research group in the Department of Computer
 - gender: Gender of the user
 - occupation: Occupation of the user
 - zip code: Zip code of the use
-
-
-### `Objective:`
-- To explore each dataset and document findings.
-- Exploratory Data Analysis
-- Visualization using Python
-- Pandas – groupby, merging 
