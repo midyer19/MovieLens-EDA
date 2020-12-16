@@ -1,8 +1,7 @@
 # MovieLens-EDA
 ### `Objective:`
-- To explore each dataset and document findings.
-- Exploratory Data Analysis
-- Visualization using Python
+- Explore each dataset and document findings.
+- Visualize data using Python
 - Implement the following packages:
   - Pandas – groupby, merging 
   - Numpy
